@@ -1,0 +1,311 @@
+What is the battery capacity of the phone?
+The phone has a 5000mAh battery that lasts up to 2 days with normal usage.
+
+Does the phone support fast charging?
+Yes, it supports 33W fast charging and can charge up to 50% in 30 minutes.
+
+Is the phone waterproof?
+The phone has IP67 water and dust resistance rating.
+
+How much internal storage does the phone have?
+It comes with 128GB internal storage, expandable up to 1TB with a microSD card.
+
+Does the phone support 5G network?
+Yes, it is compatible with 5G as well as 4G, 3G, and 2G networks.
+
+What version of Android does it run?
+It runs on Android 13 with the company’s custom UI.
+
+Can I use two SIM cards in the phone?
+Yes, it supports dual SIM with nano SIM slots.
+
+Does the phone have a fingerprint sensor?
+Yes, it has an under-display fingerprint sensor and face unlock feature.
+
+What type of display does the phone use?
+The phone has a 6.7-inch AMOLED display with 120Hz refresh rate.
+
+How good is the camera?
+It features a 64MP main camera, 12MP ultra-wide camera, and 32MP front camera for selfies.
+
+Does the phone have wireless charging?
+Yes, it supports 15W wireless charging.
+
+Is the phone’s screen protected by Gorilla Glass?
+Yes, it has Corning Gorilla Glass Victus protection.
+
+What processor powers the phone?
+The phone is powered by a Snapdragon 8 Gen 2 processor.
+
+How much RAM does the phone have?
+It comes with 8GB RAM, expandable up to 16GB with virtual RAM.
+
+Does the phone support NFC?
+Yes, it supports NFC for contactless payments.
+
+Can I expand storage with a memory card?
+Yes, it supports up to 1TB expandable storage via microSD card.
+
+Does the phone come with a charger in the box?
+Yes, a 33W fast charger is included in the box.
+
+How many colors are available?
+It is available in black, blue, and white color options.
+
+Does the phone support OTG?
+Yes, it supports USB OTG.
+
+Can I record 4K videos?
+Yes, it supports 4K video recording at 60fps.
+
+Does the phone have stereo speakers?
+Yes, it has dual stereo speakers with Dolby Atmos support.
+
+Is there a headphone jack?
+No, the phone does not include a 3.5mm headphone jack.
+
+What is the refresh rate of the display?
+It has a 120Hz adaptive refresh rate.
+
+Does the phone support HDR?
+Yes, it supports HDR10+ for better video playback.
+
+What is the weight of the phone?
+The phone weighs around 190 grams.
+
+What is the thickness of the phone?
+It is 7.9mm thin.
+
+Does the phone come with a case?
+Yes, a protective silicone case is included in the box.
+
+How long does the phone take to fully charge?
+It takes about 1 hour to fully charge.
+
+What is the standby time of the battery?
+The standby time is up to 20 days.
+
+Does the phone support Wi-Fi 6?
+Yes, it supports Wi-Fi 6 technology.
+
+Does the phone support Bluetooth 5.2?
+Yes, it comes with Bluetooth 5.2.
+
+Can I use eSIM on this phone?
+Yes, it supports both nano SIM and eSIM.
+
+Does the phone support infrared blaster?
+Yes, it has an IR blaster for remote control.
+
+Is there a notification LED?
+No, it does not have a notification LED.
+
+What GPS does the phone support?
+It supports GPS, GLONASS, Galileo, and BeiDou.
+
+Does the phone have a cooling system?
+Yes, it has a liquid cooling system for gaming.
+
+Does it support gaming modes?
+Yes, it has a dedicated gaming mode for better performance.
+
+Can the phone record slow-motion videos?
+Yes, it supports 960fps super slow-motion recording.
+
+Does the phone support 8K recording?
+Yes, it can record 8K videos at 30fps.
+
+Is there a dedicated night mode for the camera?
+Yes, the phone supports AI night mode photography.
+
+Does the phone support AI scene detection?
+Yes, it automatically adjusts settings for better shots.
+
+Does the phone have OIS?
+Yes, the main 64MP camera supports Optical Image Stabilization.
+
+Can I use Google Pay on this phone?
+Yes, it supports Google Pay via NFC.
+
+Does the phone come with pre-installed apps?
+Yes, it comes with essential Google and system apps.
+
+Is the phone’s software bloatware-free?
+Yes, it has minimal bloatware.
+
+Can I uninstall unwanted apps?
+Yes, most pre-installed apps can be uninstalled.
+
+Does the phone support wireless reverse charging?
+Yes, it supports 5W reverse wireless charging.
+
+Does the phone have a macro camera?
+Yes, it has a dedicated 5MP macro camera.
+
+Is there a telephoto lens?
+Yes, it includes an 8MP telephoto lens with 3x zoom.
+
+What is the maximum digital zoom?
+It supports up to 30x digital zoom.
+
+Does the phone have an ultra-wide camera?
+Yes, it features a 12MP ultra-wide camera.
+
+Does the selfie camera support portrait mode?
+Yes, it supports AI portrait selfies.
+
+Does the phone support face unlock?
+Yes, it has AI-based face unlock.
+
+Does the phone have a proximity sensor?
+Yes, it includes a proximity sensor.
+
+Is there an accelerometer in the phone?
+Yes, it comes with an accelerometer.
+
+Does the phone support wireless earphones?
+Yes, it supports all Bluetooth wireless earphones.
+
+Does the phone have 5G bands globally?
+Yes, it supports 12 global 5G bands.
+
+Can I mirror the screen to my TV?
+Yes, it supports screen mirroring via Miracast.
+
+Does the phone have FM radio?
+No, it does not include FM radio.
+
+Does the phone have a compass sensor?
+Yes, it includes an electronic compass.
+
+Can I lock apps with fingerprint?
+Yes, you can secure apps with fingerprint.
+
+Does the phone support app cloning?
+Yes, it allows you to clone social apps.
+
+Can I hide apps on this phone?
+Yes, it supports hidden apps feature.
+
+Does the phone support call recording?
+Yes, it has built-in call recording.
+
+Is there a dedicated microSD slot?
+Yes, it supports dual SIM + microSD slot.
+
+Does the phone have a hybrid SIM slot?
+No, it has a dedicated slot.
+
+Does the phone have wireless screen sharing?
+Yes, it supports wireless screen sharing.
+
+What charger type does the phone use?
+It uses a USB Type-C charger.
+
+Does the phone have fast file transfer?
+Yes, it supports USB 3.1 fast transfer.
+
+Does the phone support always-on display?
+Yes, it supports AOD feature.
+
+Does the phone have haptic feedback?
+Yes, it has advanced vibration motor.
+
+Is the phone good for gaming?
+Yes, with Snapdragon 8 Gen 2 and liquid cooling, it’s great for gaming.
+
+Does the phone support VR?
+Yes, it is compatible with most VR headsets.
+
+Does the phone have AR features?
+Yes, it supports ARCore for augmented reality apps.
+
+Can I update the software?
+Yes, it will receive 3 years of Android updates.
+
+Does the phone support security patches?
+Yes, it will get monthly security updates.
+
+Does the phone have expandable RAM?
+Yes, up to 16GB virtual RAM is supported.
+
+What is the charging port type?
+USB Type-C 2.0 port.
+
+Does the phone support dual speakers?
+Yes, it has stereo speakers with Dolby Atmos.
+
+Does the phone have a single-hand mode?
+Yes, it supports one-handed usage.
+
+Can I customize the UI?
+Yes, it supports themes and wallpapers.
+
+Does the phone support dark mode?
+Yes, system-wide dark mode is available.
+
+Can I record the screen?
+Yes, it has a built-in screen recorder.
+
+Does the phone support voice assistant?
+Yes, it supports Google Assistant and Alexa.
+
+Does the phone support dual VoLTE?
+Yes, both SIM cards support VoLTE.
+
+Is there Wi-Fi calling feature?
+Yes, it supports VoWiFi (Wi-Fi calling).
+
+Does the phone have a gyroscope?
+Yes, it includes a gyroscope sensor.
+
+Does the phone have an ambient light sensor?
+Yes, it adjusts brightness automatically.
+
+Is there a barometer in the phone?
+Yes, it includes a barometer.
+
+Does the phone have emergency SOS?
+Yes, it supports SOS emergency feature.
+
+Does the phone support parental controls?
+Yes, it has built-in parental control features.
+
+Can I connect external hard drives?
+Yes, it supports external drives via OTG.
+
+Does the phone support desktop mode?
+Yes, it can connect to monitors for desktop experience.
+
+Does the phone have dual flash?
+Yes, it has dual LED flash.
+
+Does the phone have a panorama mode?
+Yes, it supports panorama shots.
+
+Does the phone have AI beauty mode?
+Yes, it supports AI beauty enhancements.
+
+Can I use gesture controls?
+Yes, it supports motion and gesture controls.
+
+Does the phone have edge lighting?
+Yes, it has customizable edge lighting for notifications.
+
+Is there a gaming trigger button?
+No, it does not have dedicated triggers.
+
+Does the phone support Dolby Vision?
+Yes, it supports Dolby Vision playback.
+
+Can I schedule power on/off?
+Yes, it supports scheduled power on and off.
+
+Does the phone support app lock?
+Yes, it comes with app lock feature.
+
+Can I use split screen?
+Yes, it supports split-screen multitasking.
+
+Does the phone support wireless projection?
+Yes, it supports wireless projection to TVs.

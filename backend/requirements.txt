@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+openai
+pypdf
+faiss-cpu
+pinecone-client
+python-multipart
+python-dotenv
+requests
+sentence-transformers
+pdfplumber
+python-docx
+openpyxl
+pandas
